@@ -1,0 +1,141 @@
+41	ConcurrentHashMap internals
+42	CopyOnWriteArrayList
+43	BlockingQueue
+44	ArrayBlockingQueue vs LinkedBlockingQueue
+45	Producer–Consumer pattern
+46	ThreadPoolExecutor Deep
+47	Thread pool sizing
+48	Rejection / backpressure
+49	CompletableFuture Advanced
+50	Async production design review
+51	JVM memory layout sâu hơn
+52	Object lifecycle
+53	GC Roots / reachability
+54	Young / Old / promotion
+55	G1 GC Deep
+56	ZGC Deep
+57	GC log đọc thực tế
+58	Heap dump / memory leak
+59	Thread dump / deadlock diagnosis
+60	JVM troubleshooting production
+61	Spring ApplicationContext internals
+62	BeanFactory / BeanDefinition
+63	BeanPostProcessor Deep
+64	Spring Proxy creation
+65	AOP interceptor chain
+66	TransactionInterceptor internals
+67	Spring event system
+68	Spring @Async internals
+69	Spring scheduling
+70	Spring internals review
+71	JDBC internals
+72	Connection Pool
+73	HikariCP
+74	MyBatis execution flow
+75	MyBatis Executor / Mapper / SqlSession
+76	Transaction + Connection binding
+77	Isolation production cases
+78	Deadlock DB
+79	Optimistic / pessimistic locking
+80	DB transaction review
+81	Index fundamentals
+82	B+Tree
+83	Composite index
+84	Covering index
+85	EXPLAIN
+86	Join optimization
+87	Pagination performance
+88	Lock / MVCC
+89	Slow query diagnosis
+90	Database performance review
+91	Redis data structures
+92	Cache Aside
+93	TTL / eviction
+94	Cache penetration
+95	Cache breakdown
+96	Cache avalanche
+97	Distributed Lock
+98	Lock expiry / ownership
+99	Redlock và trade-off
+100	Cache architecture review
+101	Kafka architecture
+102	Topic / Partition / Broker
+103	Producer
+104	Consumer Group
+105	Offset / commit
+106	At-most / at-least / exactly-once
+107	Retry / DLQ
+108	Ordering
+109	Idempotent consumer
+110	Kafka production architecture
+111	Distributed system fundamentals
+112	CAP theorem
+113	Consistency models
+114	Idempotency
+115	Distributed transaction
+116	Saga
+117	Transactional Outbox
+118	Retry / exponential backoff
+119	Circuit Breaker
+120	Distributed system review
+Day	Chủ đề
+121	Microservice boundaries
+122	Service-to-service communication
+123	API Gateway
+124	Service discovery
+125	Configuration management
+126	Timeout design
+127	Retry design
+128	Circuit breaker / bulkhead
+129	Graceful degradation
+130	Microservice architecture review
+131	Logging production
+132	MDC / correlationId
+133	Distributed tracing
+134	Metrics
+135	Prometheus concepts
+136	Grafana
+137	OpenTelemetry
+138	Alerting
+139	Incident debugging
+140	Observability review
+141	Unit Test design
+142	Mockito Advanced
+143	Parameterized tests
+144	Spring integration test
+145	DB integration test
+146	Testcontainers
+147	Kafka integration test
+148	Concurrency testing
+149	Architecture testing
+150	Testing strategy review
+151	Requirement clarification
+152	Capacity estimation
+153	Load Balancer
+154	Horizontal scaling
+155	Database scaling
+156	Replication
+157	Sharding
+158	Cache architecture
+159	Queue architecture
+160	Full System Design #1
+161	High availability
+162	Fault tolerance
+163	Rate limiting
+164	Distributed ID
+165	Leader election
+166	Event-driven architecture
+167	CQRS
+168	Event Sourcing
+169	Multi-region design
+170	Full System Design #2
+171	Clean Architecture
+172	SOLID production review
+173	Design Patterns production
+174	Code Review Senior
+175	Refactoring legacy system
+176	Performance investigation
+177	Production incident exercise
+178	Architecture decision / trade-off
+179	Senior Java Mock Interview
+180	Final System Design + Senior Assessment
