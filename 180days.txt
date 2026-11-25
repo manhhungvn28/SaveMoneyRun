@@ -1,0 +1,145 @@
+41	ConcurrentHashMap internals                                                                       
+42	CopyOnWriteArrayList                                                                              
+43	BlockingQueue                                                                                     
+44	ArrayBlockingQueue vs LinkedBlockingQueue                                                         
+45	Producer–Consumer pattern                                                                         
+46	ThreadPoolExecutor Deep                                                                           
+47	Thread pool sizing                                                                                
+48	Rejection / backpressure                                                                          
+49	CompletableFuture Advanced                                                                        
+50	Async production design review                                                                    
+51	JVM memory layout sâu hơn                                                                         
+52	Object lifecycle                                                                                  
+53	GC Roots / reachability                                                                           
+54	Young / Old / promotion                                                                           
+55	G1 GC Deep                                                                                        
+56	ZGC Deep                                                                                          
+57	GC log đọc thực tế                                                                                
+58	Heap dump / memory leak                                                                           
+59	Thread dump / deadlock diagnosis                                                                  
+60	JVM troubleshooting production                                                                    
+61	Spring ApplicationContext internals                                                               
+62	BeanFactory / BeanDefinition                                                                      
+63	BeanPostProcessor Deep                                                                            
+64	Spring Proxy creation                                                                             
+65	AOP interceptor chain                                                                             
+66	TransactionInterceptor internals                                                                  
+67	Spring event system                                                                               
+68	Spring `@Async` internals                                                                         
+69	Spring scheduling                                                                                 
+70	Spring runtime lifecycle                                                                          
+71	Spring Batch fundamentals                                                                         
+72	Spring Batch chunk processing                                                                     
+73	Spring Batch transaction / restart / idempotency ✅                                               
+74	**Spring Batch fault tolerance: retry / skip / listeners ✅*                                   
+75	**Spring Batch production: wiring / partitioning / parallel / HA / metadata / monitoring ← NEXT** 
+76	Spring Security fundamentals                                                                      
+77	Spring Security JWT / OAuth2 / Resource Server / method security                                  
+78	Spring Security production                                                                        
+79	Elasticsearch fundamentals            
+80	Elasticsearch Query DSL               
+81	Elasticsearch production              
+82	**Redis data structures*           
+83	Cache Aside                           
+84	TTL / eviction                        
+85	Cache penetration                     
+86	Cache breakdown                       
+87	Cache avalanche                       
+88	Distributed Lock + expiry / ownership 
+89	Redlock + trade-off                   
+90	Cache architecture production review  
+91	Kafka architecture: Topic / Partition / Broker          
+92	Kafka Producer                                          
+93	Kafka Consumer Group                                    
+94	Offset / commit / acknowledgment                        
+95	At-most / at-least / exactly-once                       
+96	Retry / DLQ / poison message                            
+97	Ordering / key / partition                              
+98	Idempotent consumer                                     
+99	Kafka production với Spring Kafka / Spring Cloud Stream 
+100	Distributed system fundamentals + failure model 
+101	CAP theorem + consistency models                
+102	Idempotency                                     
+103	Distributed transaction                         
+104	Saga                                            
+105	Transactional Outbox                            
+106	Retry / exponential backoff                     
+107	Circuit Breaker                                 
+108	Distributed system production review            
+109	Microservice boundaries          
+110	JDBC internals                                       
+111	Connection Pool + HikariCP                           
+112	MyBatis execution flow                               
+113	Transaction + Connection binding                     
+114	Isolation production cases                           
+115	Deadlock DB                                          
+116	Optimistic / pessimistic locking                     
+117	Index fundamentals                                   
+118	B+Tree                                               
+119	Composite index                                      
+120	Covering index                                       
+121	EXPLAIN                                              
+122	Join optimization                                    
+123	Pagination performance                               
+124	Lock / MVCC                                          
+125	Slow query diagnosis                                126	Database transaction + performance production review
+127	Interface vs Abstract Class, Inheritance vs Composition
+128	SOLID, Dependency Injection, Dependency Inversion
+129	Class Design, UML, thiết kế quan hệ giữa các class
+130	Strategy, Factory, Template Method
+131	Adapter, Decorator, Observer, Chain of Responsibility
+132	Full Low-Level Design: Thiết kế module Java/Spring Boot thực tế
+133	Service-to-service communication 
+134	API Gateway + Service discovery  
+135	Configuration management         
+136	Timeout design                   
+137	Retry design                     
+138	Circuit breaker / bulkhead       
+139	Graceful degradation             
+140	Microservice architecture review 
+141	Logging production + MDC / correlationId 
+142	Distributed tracing                      
+143	Metrics                                  
+144	Prometheus concepts                      
+145	Grafana                                  
+146	OpenTelemetry                            
+147	Alerting                                 
+148	Incident debugging                       
+149	Observability review                     
+150	Unit Test design                     
+151	Mockito Advanced                     
+152	Parameterized tests                  
+153	Spring integration test              
+154	DB integration test + Testcontainers 
+155	Kafka integration test               
+156	Concurrency testing                  
+157	Architecture testing                 
+158	Testing strategy review              
+159	Requirement clarification + capacity estimation 
+160	Load Balancer                                   
+161	Horizontal scaling                              
+162	Database scaling + replication                                                   
+163	Sharding                                
+164	Cache architecture                      
+165	Queue architecture                      
+166	Full System Design #1                   
+167	Bottleneck / SPOF / trade-off review    
+168	High availability + fault tolerance     
+169	Rate limiting                           
+170	Distributed ID                          
+171	Leader election                         
+172	Event-driven architecture               
+173	CQRS                                    
+174	Event Sourcing                          
+175	Multi-region design                     
+176	Full System Design #2                   
+177	Clean Architecture                      
+178	SOLID production review                 
+179	Design Patterns production              
+180	Code Review Senior                      
+181	Refactoring legacy system               
+182	Performance investigation               
+183	Production incident exercise            
+184	Architecture decision / trade-off       
+185	Senior Java Mock Interview              
+186	Final System Design + Senior Assessment 
